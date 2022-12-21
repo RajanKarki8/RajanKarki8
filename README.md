@@ -1,0 +1,19 @@
+### Hi there 👋
+
+<!--
+**RajanKarki8/RajanKarki8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 👋 Hi, I’m @RajanKarki
+ - 👀 I’m working in backend development with django framework.
+ - 🌱 I’m currently learning python and django.
+ - 💞️ I’m looking to collaborate on good software company to share my ideas and project.
+ - 📫 you can personally send message via facebook and instagram.
+
+ <!---
+ RajanKarki8/RajanKarki8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ You can click the Preview link to take a look at your changes.
+ --->
+
+-->

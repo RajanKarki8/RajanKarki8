@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on python language
+- 🔭 I’m currently working on my own ideas and projects.
 - 🌱 I’m currently learning python and django.
-- 👯 I’m looking to collaborate on software industry to gain coding skills
-- 🤔 I’m looking for developing some excellent project and i am working on it
-- 💬 Ask me about python, html,css ,database,cloud,networking
+- 👯 I’m looking to collaborate with new skills and knowledge.
+- 🤔 I’m like to code and code and code
+- 💬 Ask me about your future
 - 📫 How to reach me: 
 -
 - ⚡ Fun fact: control with control
